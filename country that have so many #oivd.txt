@@ -1,4 +1,0 @@
-Kraj: Stany Zjednoczone
-Przypadki: ok. 100mln
-Zgony: ok. 1mln
-2 miejsce: Indie
